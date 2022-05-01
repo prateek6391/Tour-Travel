@@ -1,5 +1,6 @@
 # tour-travel
 Travelling Website project using PHP, mySQL
+A Website that provides travel reviews, trip fares, and Bookings.
 
 Some Screenshots of the websites are:
 ![image](https://user-images.githubusercontent.com/66348273/166143729-b2a118df-6481-417b-93f6-4535b06bb52f.png)
